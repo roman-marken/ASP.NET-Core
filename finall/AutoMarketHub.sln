@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMarketHub.WebApi", "AutoMarketHub.WebApi\AutoMarketHub.WebApi.csproj", "{42DA4BEA-4E3F-4C32-857C-B3232E5FB810}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMarketHub.UnitTests", "AutoMarketHub.UnitTests\AutoMarketHub.UnitTests.csproj", "{FD2F4932-9086-492B-82D7-D47BDA518811}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42DA4BEA-4E3F-4C32-857C-B3232E5FB810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42DA4BEA-4E3F-4C32-857C-B3232E5FB810}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42DA4BEA-4E3F-4C32-857C-B3232E5FB810}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42DA4BEA-4E3F-4C32-857C-B3232E5FB810}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD2F4932-9086-492B-82D7-D47BDA518811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD2F4932-9086-492B-82D7-D47BDA518811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD2F4932-9086-492B-82D7-D47BDA518811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD2F4932-9086-492B-82D7-D47BDA518811}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
